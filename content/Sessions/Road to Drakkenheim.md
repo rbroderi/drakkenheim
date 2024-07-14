@@ -7,11 +7,20 @@ session-title: Road to Drakkenheim
 
 ## Scene: Leaving Port / Maelstrom
 #### NPC Appearances
+
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE WITHOUT ID file.link AS "Character Name", upper(status) AS "Current Status", job-title AS "Role", groups AS "Affiliations"
 FROM outgoing([[]])
 WHERE type = "npc"
 ```
+%%
+
+| Character Name                                 | Current Status | Role    | Affiliations       |
+| ---------------------------------------------- | -------------- | ------- | ------------------ |
+| [[NPCs/Tamond Stormwind.md\|Tamond Stormwind]] | \-             | Captain | The Silver Serpent |
+
+%% DATAVIEW_PUBLISHER: end %%
 #### Objects / Items Appearances
 ```dataview
 TABLE WITHOUT ID file.link AS "Name", owner AS "Owner"
