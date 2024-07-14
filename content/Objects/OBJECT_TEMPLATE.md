@@ -2,7 +2,7 @@
 type: object
 subtype: Ship
 status: 
-owner: [[%OWNER%]]
+owner: "[[%OWNER%]]"
 ---
 
 >[!INFO] `=this.file.name`

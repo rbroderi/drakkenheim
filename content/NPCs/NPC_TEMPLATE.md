@@ -1,9 +1,9 @@
 ---
 type: npc
 status: 
-char-age: %AGE%
+char-age: "%AGE%"
 groups: 
-job-title: %JOB%
+job-title: "%JOB%"
 ---
 
 >[!INFO] `=this.file.name`
