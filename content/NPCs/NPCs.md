@@ -1,4 +1,4 @@
-# NPCs Overview
+# Listing
 
 %% DATAVIEW_PUBLISHER: start
 ```dataview  
