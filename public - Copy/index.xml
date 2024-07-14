@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>NPCs</title>
+    <link>https://quartz.jzhao.xyz/NPCs/NPCs</link>
+    <guid>https://quartz.jzhao.xyz/NPCs/NPCs</guid>
+    <description>NPCs Overview type: folder_brief_live noteOnly: true.</description>
+    <pubDate>Sun, 14 Jul 2024 18:45:22 GMT</pubDate>
+  </item><item>
+    <title>Objects</title>
+    <link>https://quartz.jzhao.xyz/Objects/Objects</link>
+    <guid>https://quartz.jzhao.xyz/Objects/Objects</guid>
+    <description>Objects Overview type: folder_brief_live noteOnly: true.</description>
+    <pubDate>Sun, 14 Jul 2024 18:45:15 GMT</pubDate>
+  </item><item>
+    <title>Sessions</title>
+    <link>https://quartz.jzhao.xyz/Sessions/Sessions</link>
+    <guid>https://quartz.jzhao.xyz/Sessions/Sessions</guid>
+    <description>Sessions Overview type: folder_brief_live noteOnly: true.</description>
+    <pubDate>Sun, 14 Jul 2024 18:45:07 GMT</pubDate>
+  </item><item>
+    <title>Drakkenheim</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description> Sessions NPCs Objects .</description>
+    <pubDate>Sun, 14 Jul 2024 18:36:58 GMT</pubDate>
+  </item><item>
+    <title>Drawing 2024-07-14 14.29.30.excalidraw</title>
+    <link>https://quartz.jzhao.xyz/Excalidraw/Drawing-2024-07-14-14.29.30.excalidraw</link>
+    <guid>https://quartz.jzhao.xyz/Excalidraw/Drawing-2024-07-14-14.29.30.excalidraw</guid>
+    <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ You can decompress Drawing data with the command palette: ‘Decompress current Excalidraw file’.</description>
+    <pubDate>Sun, 14 Jul 2024 18:29:30 GMT</pubDate>
+  </item><item>
+    <title>Road to Drakkenheim</title>
+    <link>https://quartz.jzhao.xyz/Sessions/Road-to-Drakkenheim</link>
+    <guid>https://quartz.jzhao.xyz/Sessions/Road-to-Drakkenheim</guid>
+    <description>= this.session-title Scene: Leaving Port / Maelstrom NPC Appearances Character NameCurrent StatusRoleAffiliationsTamond Stormwind-CaptainThe Silver Serpent Objects / Items ...</description>
+    <pubDate>Sun, 14 Jul 2024 04:00:00 GMT</pubDate>
+  </item><item>
+    <title>summarizeLarge</title>
+    <link>https://quartz.jzhao.xyz/textgenerator/templates/default/summarizeLarge</link>
+    <guid>https://quartz.jzhao.xyz/textgenerator/templates/default/summarizeLarge</guid>
+    <description>uses langchain chain to summarize large chunk of text.</description>
+    <pubDate>Sat, 13 Jul 2024 16:03:04 GMT</pubDate>
+  </item><item>
+    <title>summarize</title>
+    <link>https://quartz.jzhao.xyz/textgenerator/templates/default/summarize</link>
+    <guid>https://quartz.jzhao.xyz/textgenerator/templates/default/summarize</guid>
+    <description>select a content and it will be summarized.</description>
+    <pubDate>Sat, 13 Jul 2024 16:03:02 GMT</pubDate>
+  </item><item>
+    <title>simplify</title>
+    <link>https://quartz.jzhao.xyz/textgenerator/templates/default/simplify</link>
+    <guid>https://quartz.jzhao.xyz/textgenerator/templates/default/simplify</guid>
+    <description>select a content and it will be simplified.</description>
+    <pubDate>Sat, 13 Jul 2024 16:03:01 GMT</pubDate>
+  </item><item>
+    <title>rewrite</title>
+    <link>https://quartz.jzhao.xyz/textgenerator/templates/default/rewrite</link>
+    <guid>https://quartz.jzhao.xyz/textgenerator/templates/default/rewrite</guid>
+    <description>select a content and it will be rewriten.</description>
+    <pubDate>Sat, 13 Jul 2024 16:02:52 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
