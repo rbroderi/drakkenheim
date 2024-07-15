@@ -23,11 +23,20 @@ WHERE type = "npc"
 
 %% DATAVIEW_PUBLISHER: end %%
 #### Objects / Items Appearances
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE WITHOUT ID file.link AS "Name", owner AS "Owner"
 FROM outgoing([[]])
 WHERE type = "object"
 ```
+%%
+
+| Name                                          | Owner                                          |
+| --------------------------------------------- | ---------------------------------------------- |
+| [[Objects/Silver Serpent.md\|Silver Serpent]] | [[NPCs/Tamond Stormwind.md\|Tamond Stormwind]] |
+
+%% DATAVIEW_PUBLISHER: end %%
+
 ## Audio
 ![[DAYTIME,-ETIOPIAN-FOOD-MARKED,-PEOPLE-BARGAINING,-CHATTING,-WALLA-MARKET_MOTHERLAND-ETHIOPIA_05.oga#loop]]
 ![[Port-ambience,-small-waves-hitting-boats.oga#loop]]

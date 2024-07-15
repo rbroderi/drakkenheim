@@ -32,8 +32,8 @@ SORT session-num asc
 ```
 %%
 
-| Session                                                  | Title               | date       |
-| -------------------------------------------------------- | ------------------- | ---------- |
-| [[Road to Drakkenheim\|Road to Drakkenheim]] | Road to Drakkenheim | 07/14/2024 |
+| Session                                                                      | Title               | date       |
+| ---------------------------------------------------------------------------- | ------------------- | ---------- |
+| [[Sessions/Road to Drakkenheim/Road to Drakkenheim.md\|Road to Drakkenheim]] | Road to Drakkenheim | 07/14/2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
