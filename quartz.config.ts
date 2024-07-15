@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "rbroderi.github.io/drakkenheim",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["**/private", "**/template*", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

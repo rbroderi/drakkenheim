@@ -8,8 +8,8 @@ publish: true
 ---
 
 >[!INFO] `=this.file.name`
->- ![[captian.jpg|inlR|200]]
-<br/> [[captian.jpg|show to players]]
+>- ![[captain.jpg|inlR|200]]
+<br/> [[captain.jpg|show to players]]
 >- **Age:** `= this.char-age`
 > - **Description:** Captain Tamond Stormwind is a seasoned sailor with a weathered face that bears the marks of a lifetime spent at sea. His silver hair, once a dark chestnut, now shines in the sunlight as a testament to his years of experience navigating the treacherous waters of the ocean. At 60 years old, he still carries himself with the confidence and strength of a man who has weathered many storms and emerged victorious.
 > - Tamond's piercing blue eyes hold a deep wisdom that comes from years of leading his crew through perilous waters and facing down ruthless pirates. Despite his grizzled appearance, there is a kindness in his voice and a warmth in his smile that endears him to those under his command.

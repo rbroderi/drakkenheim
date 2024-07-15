@@ -6,3 +6,4 @@ publish: true
 - [[Sessions]]
 - [[NPCs]]
 - [[Objects]]
+- [[Maps]]

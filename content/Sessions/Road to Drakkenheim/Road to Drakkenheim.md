@@ -48,7 +48,7 @@ Players leave Port Naranzaru, meeting [[Tamond Stormwind]] Captain of the [[Silv
 ## Scenes
 - Small scene description.
 
-![[Private]]
+![[private]]
 
 ## Locations
 
