@@ -3,6 +3,7 @@ type: page-session
 dg_campaign: Drakkenheim
 date: 07/14/2024
 session-title: Road to Drakkenheim
+publish: true
 ---
 
 ## Scene: Leaving Port / Maelstrom
@@ -36,12 +37,9 @@ WHERE type = "object"
 Players leave Port Naranzaru, meeting [[Tamond Stormwind]] Captain of the [[Silver Serpent]]
 
 ## Scenes
-
 - Small scene description.
 
-## Secrets and Clues
-
-- Secret description
+![[Private]]
 
 ## Locations
 

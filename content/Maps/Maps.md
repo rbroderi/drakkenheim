@@ -3,7 +3,7 @@ publish: true
 ---
 
 # Listing
-
+ 
 %% DATAVIEW_PUBLISHER: start
 ```dataview  
 LIST  
@@ -11,14 +11,7 @@ WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE
 ```
 %%
 
-- [[NPCs/Tamond Stormwind.md|Tamond Stormwind]]
+- [[Map_TEMPLATE|Map_TEMPLATE]]
+- [[Maps/Westemär Region.md|Westemär Region]]
 
 %% DATAVIEW_PUBLISHER: end %%
-
-%%
-```ccard
-type: folder_brief_live
-noteOnly: true
-```
-%%
-

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Listing
  
 %% DATAVIEW_PUBLISHER: start
@@ -7,6 +11,6 @@ WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE
 ```
 %%
 
-- [[Sessions/Road to Drakkenheim.md|Road to Drakkenheim]]
+- [[Road to Drakkenheim|Road to Drakkenheim]]
 
 %% DATAVIEW_PUBLISHER: end %%

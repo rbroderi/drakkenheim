@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ```leaflet  
 ### Tutorial: [https://youtu.be/54EyMzJP5DU](https://youtu.be/54EyMzJP5DU)  
 ### id must be unique  

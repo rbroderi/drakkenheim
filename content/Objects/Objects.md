@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Listing
  
 %% DATAVIEW_PUBLISHER: start
