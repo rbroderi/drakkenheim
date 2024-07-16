@@ -17,7 +17,7 @@ image: [[westamar_region.png]]
 ### Note that this formula requires adjustments depending on your map. The idea is to determine the number of units between your bar scale. We divide by 100 here because my bar scale measures in 100 units. If your maps scale bar measures in units of 50 them you should divide by 50 instead. The idea is to calculate how many pixels are equal to 1 unit.  
 ### Bounds is entered as [Height, Width]  
 bounds: [[0,0], [3000, 4500]] 
-height: 95%
+height: 500px
 width: 95%  
 ### This sets where the map starts by default. Set it to the middle (half) of your bounds.  
 lat: 1100

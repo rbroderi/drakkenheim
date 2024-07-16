@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"b150d30bec6a17fd","type":"file","file":"Images/drakkenheim-cover-art.jpg","x":-680,"y":-500,"width":1420,"height":912},
-		{"id":"9d10111754211e76","type":"text","text":"# **Drakkenheim**","x":-280,"y":-240,"width":465,"height":70}
-	],
-	"edges":[
-		{"id":"0584a298e7721874","fromNode":"9d10111754211e76","fromSide":"bottom","toNode":"b150d30bec6a17fd","toSide":"right"}
-	]
-}

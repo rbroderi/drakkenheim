@@ -4,6 +4,7 @@ status:
 char-age: 38
 groups: 
 job-title: helmsman
+publish: true
 ---
 
 >[!INFO] `=this.file.name`

@@ -48,8 +48,6 @@ Players leave Port Naranzaru, meeting [[Tamond Stormwind]] Captain of the [[Silv
 ## Scenes
 - Small scene description.
 
-![[private]]
-
 ## Locations
 
 **Location**: aspect, aspect, aspect
@@ -60,9 +58,4 @@ Players leave Port Naranzaru, meeting [[Tamond Stormwind]] Captain of the [[Silv
 
 **Location**: aspect, aspect, aspect
 
-## Potential Monsters
-
-- Name
-
-## Potential Treasure
-
+![[private]]
