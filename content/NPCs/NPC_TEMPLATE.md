@@ -18,9 +18,18 @@ job-title: "%JOB%"
  >[!EXAMPLE] Statistics
  > {CONTENT}
 
->[!TIP] Appearances
- >```dataview
+## Appearances
+
+%% DATAVIEW_PUBLISHER: start
+```dataview
 TABLE WITHOUT ID file.link AS "Session", session-title AS "Title", date
 FROM -"_resources/page_templates" AND [[#]]
 WHERE type = "page-session"
 SORT session-num asc
+```
+%%
+
+| Session | Title | date |
+| ------- | ----- | ---- |
+
+%% DATAVIEW_PUBLISHER: end %%

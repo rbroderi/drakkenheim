@@ -1,9 +1,7 @@
 ---
 publish: true
 ---
-
 # Listing
- 
 %% DATAVIEW_PUBLISHER: start
 ```dataview  
 LIST  
@@ -11,7 +9,6 @@ WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE
 ```
 %%
 
-- [[Maps/Westemär Region.md|Westemär Region]]
-- [[Maps/Westemär Region Online.md|Westemär Region Online]]
+
 
 %% DATAVIEW_PUBLISHER: end %%

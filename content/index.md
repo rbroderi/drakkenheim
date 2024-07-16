@@ -7,3 +7,4 @@ publish: true
 - [[NPCs]]
 - [[Objects]]
 - [[Maps]]
+- [[Lore]]

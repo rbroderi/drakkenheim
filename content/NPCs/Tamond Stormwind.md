@@ -22,7 +22,6 @@ publish: true
  >[!EXAMPLE] Statistics
  > {CONTENT}
 ## Appearances
-
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE WITHOUT ID file.link AS "Session", session-title AS "Title", date
