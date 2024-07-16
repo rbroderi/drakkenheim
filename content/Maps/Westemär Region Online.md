@@ -1,5 +1,5 @@
 ---
 publish: true
 ---
-![[westamar_region.png]]
-[[westamar_region.png|open in new window]]
+![[Westemar Region|inlR|800]]
+[[Westemar Region|open in new window]]
