@@ -11,6 +11,7 @@ WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE
 ```
 %%
 
+- [[Places/Ashbay.md|Ashbay]]
 - [[Places/Drakkenheim.md|Drakkenheim]]
 
 %% DATAVIEW_PUBLISHER: end %%
