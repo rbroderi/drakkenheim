@@ -11,7 +11,7 @@ WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE
 ```
 %%
 
-- [[Maps/Westemär Region.md|Westemär Region]]
-- [[Maps/Westemär Region Online.md|Westemär Region Online]]
+- [[Westemär Region Measure|Westemär Region Measure]]
+- [[Westemär Region|Westemär Region]]
 
 %% DATAVIEW_PUBLISHER: end %%
