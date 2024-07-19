@@ -1,12 +1,14 @@
 ---
-type: place
+type: object
+subtype: Ship
 status: 
+owner: "[[%OWNER%]]"
 ---
 
->[!INFO] `=this.file.name`
+>[!INFO] Object_Template.Md
 >- ![[placeholder.png|inlR|200]]
+>- **Owner:** `= this.owner`
 > - **Description:** %DESCRIPTION% 
-
 >[!NOTE] Background
 > {CONTENT}
 

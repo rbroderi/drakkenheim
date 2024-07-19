@@ -7,10 +7,10 @@ job-title: helmsman
 publish: true
 ---
 
->[!INFO] `=this.file.name`
+>[!INFO] Adrien Ballard
 >- ![[helmsman.jpg|inlR|200]]
 <br/> [[helmsman.jpg|Show Players]]
->- **Age:** `= this.char-age`
+>- **Age:** 38
 > - **Description:** Adrien Ballard, the helmsman of the Silver Serpent, is a seasoned sailor who has navigated the seas for over two decades. At 38 years old, he is known for his exceptional skill in handling the ship in even the most treacherous waters. Looking at him tells tales of countless voyages, Adrien's steady hands and sharp instincts make him an invaluable asset to the crew of the Silver Serpent. His unwavering dedication to his craft and his crewmates has earned him respect and admiration among all who sail with him.
 > - **Personality:** Reserved
  

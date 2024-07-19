@@ -12,6 +12,7 @@ WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE
 %%
 
 - [[Objects/Silver Serpent.md|Silver Serpent]]
+- [[Objects/Delerium.md|Delerium]]
 
 %% DATAVIEW_PUBLISHER: end %%
  

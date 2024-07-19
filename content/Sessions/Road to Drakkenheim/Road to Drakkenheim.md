@@ -43,7 +43,7 @@ WHERE type = "object"
 
 ## Synopsis
 
-Players leave Port Naranzaru, meeting [[Tamond Stormwind]] Captain of the [[Silver Serpent]]
+Players leave Port Nyanzaru, meeting [[Tamond Stormwind]] Captain of the [[Silver Serpent]]
 
 ## Scenes
 - Small scene description.

@@ -4,7 +4,7 @@ subtype: Item
 publish: true
 ---
 
->[!INFO] `=this.file.name`
+>[!INFO] Delerium
 >- ![[delerium_study.jpg|inlR|200]]![[delerium.jpg|inlR|200]]
 <br/> [[delerium_study.jpg|show to players]] | [[delerium.jpg|show to players]]
 

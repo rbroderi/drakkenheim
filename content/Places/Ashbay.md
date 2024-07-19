@@ -3,7 +3,7 @@ type: place
 publish: true
 ---
 
->[!INFO] `=this.file.name`
+>[!INFO] Ashbay
 >- ![[ashbay.jpg]]
 <br/> [[ashbay.jpg|show to players]]
 > - **Description:** Ash Bay is dotted by myriad forgettable little fishing villages. Seldom home to more than a few dozen families, the people here eke out their living thanks to the good catches and calm waters of the bay.

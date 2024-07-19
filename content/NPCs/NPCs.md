@@ -11,8 +11,8 @@ WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE
 ```
 %%
 
-- [[NPCs/Tamond Stormwind.md|Tamond Stormwind]]
 - [[NPCs/Adrien Ballard.md|Adrien Ballard]]
+- [[NPCs/Tamond Stormwind.md|Tamond Stormwind]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

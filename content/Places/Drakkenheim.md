@@ -2,8 +2,7 @@
 type: place
 publish: true
 ---
-
->[!INFO] `=this.file.name`
+>[!INFO] Drakkenheim
 >- ![[drakkenheim_cityscape.jpg]]
 <br/> [[drakkenheim_cityscape.jpg|show to players]]
 > - **Description:** Drakkenheim is the capital of the kingdom of Westemär, one of the three main powers on the continent alongside Elyria and Caspia. However, the political state of Westemär is uncertain. The destruction of Drakkenheim by the meteorite 15 years ago caused a Civil War for succession that ultimately left the nation with no central power. You might have heard references to “the war” made by some of the hooded lanterns, as before returning to Drakkenheim the Lord Commander fought in the civil war for the Restorationists.
