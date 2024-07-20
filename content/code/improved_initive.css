@@ -108,9 +108,10 @@ position: absolute !important;
 top:100px !important;
 }
 .combatant-portrait__caption{
+left: 27% !important;
 position: absolute !important;
 top:100px !important;
-left: 150px;
+/* left: 150px; */
 align-items: center !important;
 font-size: 50pt !important;
 font-weight: bold !important;
