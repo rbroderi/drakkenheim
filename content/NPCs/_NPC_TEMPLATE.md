@@ -8,6 +8,7 @@ job-title: "%JOB%"
 
 >[!INFO] `=this.file.name`
 >- ![[placeholder.png|inlR|200]]
+<br/> [[placeholder.png|show to players]]
 >- **Age:** `= this.char-age`
 > - **Description:** %DESCRIPTION%
 > - **Personality:** Cordial

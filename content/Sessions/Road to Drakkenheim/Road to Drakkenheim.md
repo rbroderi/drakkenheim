@@ -6,7 +6,7 @@ session-title: Road to Drakkenheim
 publish: true
 ---
 
-## Scene: Leaving Port / Maelstrom
+## Scene: Leaving Port
 #### NPC Appearances
 
 %% DATAVIEW_PUBLISHER: start
@@ -17,9 +17,11 @@ WHERE type = "npc"
 ```
 %%
 
-| Character Name                                 | Current Status | Role    | Affiliations       |
-| ---------------------------------------------- | -------------- | ------- | ------------------ |
-| [[NPCs/Tamond Stormwind.md\|Tamond Stormwind]] | \-             | Captain | The Silver Serpent |
+| Character Name                                 | Current Status | Role     | Affiliations       |
+| ---------------------------------------------- | -------------- | -------- | ------------------ |
+| [[NPCs/Tamond Stormwind.md\|Tamond Stormwind]] | \-             | Captain  | The Silver Serpent |
+| [[NPCs/Adrien Ballard.md\|Adrien Ballard]]     | \-             | Helmsman | \-                 |
+| [[NPCs/Zander Lawson.md\|Zander Lawson]]       | \-             | Bosun    | \-                 |
 
 %% DATAVIEW_PUBLISHER: end %%
 #### Objects / Items Appearances
@@ -43,19 +45,15 @@ WHERE type = "object"
 
 ## Synopsis
 
-Players leave Port Nyanzaru, meeting [[Tamond Stormwind]] Captain of the [[Silver Serpent]]
+Players leave Port Nyanzaru, meeting [[Tamond Stormwind]] Captain of the [[Silver Serpent]] and his crew including: Helmsman [[Adrien Ballard]] and Bosun [[Zander Lawson]]
 
 ## Scenes
 - Small scene description.
 
 ## Locations
 
-**Location**: aspect, aspect, aspect
+**Location**: Port Nyanzaru
+**Location**: Open Ocean
+**Location**: Ashbay
 
-**Location**: aspect, aspect, aspect
-
-**Location**: aspect, aspect, aspect
-
-**Location**: aspect, aspect, aspect
-
-![[private]]
+![[Leaving Port_PRIVATE]]

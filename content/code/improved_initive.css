@@ -1,0 +1,197 @@
+/* Card-style player view for Improved Initiative app
+ * 
+ * Custom CSS for Improved Initiative <https://improvedinitiative.app> that
+ * styles player view to display combatants as an array of "cards" showing off
+ * monster and character portraits set in DM view. To install, paste code into
+ * "Additional Player View CSS" on the "Epic Tier" tab in the Improved
+ * Initiative settings page.
+ *
+ * These styles have not been exhaustively tested and are limited by not being
+ * able to change the underlying JS, so be prepared for unforeseen behavior in
+ * certain cases. Styles have not been optimized for dark mode due to lack of
+ * dark or transparent backgrounds on most readily-available artwork.
+ * 
+ * Copyright (c) 2024 Greye Smyth. All rights reserved.
+ *
+ * This work is licensed under the terms of the MIT license.  
+ * For a copy, see <https://opensource.org/licenses/MIT>.
+ */
+
+/* Definitions for tweaking layout */
+:root {
+/* <percentage> values */
+zoom: 50%;
+    font-size: 12pt;
+    /* Outer padding and space between cards */
+    --card-spacing: 0.5rem;
+	
+    /* Overall size of each card */
+    --card-width: 10rem;
+    --card-height:10rem;
+	
+    /* Thickness of outer card border */
+    --border-thickness: 10px;
+}
+
+/* Not using for this layout */
+.combatant--header {
+    display: none;
+}
+
+
+/* Fix background in place in case cards overflow viewport,
+ * handle padding issue coming from 100%-height body */
+body {
+    height: auto;
+    min-height: 0; /*100vh; */
+    background-attachment: fixed !important;
+}
+
+/* Set up container for cards */
+body > div {
+    margin: auto;
+    padding: var(--card-spacing);
+}
+.combatants {
+    border: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: var(--card-spacing);
+}
+
+/* Lay out combatant card */
+.combatant {
+    position: relative;
+    width: var(--card-width);
+    /* height: var(--card-height); */
+height: unset !important;
+    padding: 0;
+    overflow: hidden;
+    /* Using white simply because most creature artwork
+     * is only available with a white background */
+    background-color: white !important;
+    border: 10px solid rgba(255, 255, 255, 0);
+    border-radius: 1.5rem;
+}
+
+/* Account for thicker left border on active character */
+.combatant:not(.active) {
+    border-left: 0px solid magenta !important;
+    --total-borders: 0;
+}
+.combatant.active {
+    --total-borders: 0;
+    border: 10px solid var(--red);
+}
+
+/* Initiative corner sticker */
+.combatant__initiative {
+    position: absolute;
+   top: 1rem;
+    margin: 0.5rem;
+    width: 2.5rem;
+    aspect-ratio: 1 / 1;
+    align-items: center !important;
+    padding-right: 0 !important;
+    color: white;
+    background-color: black;
+    border-radius: 50%;
+}
+.combatant-portrait{
+display: unset !important;
+top:-100px  !important;
+align-items: unset !important;
+}
+.combatant-portrait__image{
+position: absolute !important;
+top:100px !important;
+}
+.combatant-portrait__caption{
+position: absolute !important;
+top:100px !important;
+left: 150px;
+align-items: center !important;
+font-size: 50pt !important;
+font-weight: bold !important;
+color:white !important;
+-webkit-text-stroke: 3px black !important;
+    background-color: rgba(150, 100, 150, 0.5) !important;
+}
+
+/* Have portrait fill card */
+.combatant__portrait {
+    width: 100% !important;
+    padding-right: 0 !important;
+    img {
+        margin: auto;
+ max-width: 100%;
+     max-height: var(--card-height) !important;
+    }
+}
+
+/* Semi-transparent name and HP banners */
+.combatant__name {
+    position: absolute;
+    font-size: 10pt;
+    left: 0;
+    top: 2px;
+    width: 95% !important;
+    justify-content: center;
+    /* text-align: center; */
+    background-color: rgba(255, 255, 255, 0.75);
+    /* border-top: 1px solid black; */
+    /* border-bottom: 1px solid black; */
+}
+.combatant__hp {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100% !important;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.75);
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+/* Hide HP banner if "Hide all" selected */
+.combatant__hp:has(> span:empty) {
+    display: none;
+}
+
+/* Row of floating tags, auto-scroll if they overflow */
+.combatant__tags {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    flex-flow: row nowrap;
+    justify-content: center;
+    gap: 0.5rem;
+    min-width: 100%;
+    padding: 0 1rem 1rem;
+    animation: 4s ease infinite alternate auto-scroll;
+}
+
+/* Scroll back and forth with pauses at each end */
+@keyframes auto-scroll {
+    0%,
+    20% {
+        transform: translateX(0%);
+    }
+    80%,
+    100% {
+        transform: translateX(calc(
+            var(--card-width)
+                - var(--total-borders)
+                - 100%
+        ));
+    }
+}
+
+/* Clear existing tag layout and add rounded corners */
+.tag {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    flex-shrink: 0 !important;
+    border-radius: 0.25rem;
+}
