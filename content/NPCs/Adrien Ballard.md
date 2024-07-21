@@ -2,7 +2,7 @@
 type: npc
 status: 
 char-age: 38
-groups: 
+groups: The Silver Serpent
 job-title: Helmsman
 publish: true
 ---

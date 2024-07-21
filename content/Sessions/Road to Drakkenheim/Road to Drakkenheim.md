@@ -20,8 +20,8 @@ WHERE type = "npc"
 | Character Name                                 | Current Status | Role     | Affiliations       |
 | ---------------------------------------------- | -------------- | -------- | ------------------ |
 | [[NPCs/Tamond Stormwind.md\|Tamond Stormwind]] | \-             | Captain  | The Silver Serpent |
-| [[NPCs/Adrien Ballard.md\|Adrien Ballard]]     | \-             | Helmsman | \-                 |
-| [[NPCs/Zander Lawson.md\|Zander Lawson]]       | \-             | Bosun    | \-                 |
+| [[NPCs/Adrien Ballard.md\|Adrien Ballard]]     | \-             | Helmsman | The Silver Serpent |
+| [[NPCs/Zander Lawson.md\|Zander Lawson]]       | \-             | Bosun    | The Silver Serpent |
 
 %% DATAVIEW_PUBLISHER: end %%
 #### Objects / Items Appearances

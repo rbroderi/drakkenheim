@@ -2,8 +2,9 @@
 type: npc
 status: 
 char-age: 22
-groups: 
+groups: The Silver Serpent
 job-title: Bosun
+publish: true
 ---
 
 >[!INFO] Zander Lawson
