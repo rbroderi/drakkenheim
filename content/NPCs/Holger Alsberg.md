@@ -8,8 +8,8 @@ race: "%RACE%"
 ---
 
 >[!INFO] `=this.file.name`
->- ![[placeholder.png|inlR|200]]
-<br/> [[placeholder.png|show to players]]
+>- ![[Holger Alsberg.jpg|inlR|200]]
+<br/> [[Holger Alsberg.jpg|show to players]]
 >- **Age:** `= this.char-age`
 > - **Description:** %DESCRIPTION%
 > - **Personality:** Cordial

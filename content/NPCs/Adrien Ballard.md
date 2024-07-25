@@ -4,6 +4,7 @@ status:
 char-age: 38
 groups: The Silver Serpent
 job-title: Helmsman
+race: human
 publish: true
 ---
 

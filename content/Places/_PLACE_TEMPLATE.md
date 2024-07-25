@@ -1,6 +1,7 @@
 ---
 type: place
 status: 
+location:
 ---
 
 >[!INFO] Place_Template.Md

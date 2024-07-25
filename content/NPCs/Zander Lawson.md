@@ -4,6 +4,7 @@ status:
 char-age: 22
 groups: The Silver Serpent
 job-title: Bosun
+race: human
 publish: true
 ---
 
@@ -11,14 +12,11 @@ publish: true
 >- ![[bosun.jpg|inlR|200]]
 <br/> [[bosun.jpg|show to players]]
 >- **Age:** 22
-> - **Description:** %DESCRIPTION%
-> - **Personality:** Cordial
+> - **Description:** Boson of the silver serpent.
+> - **Personality:** Excitable
  
  >[!NOTE] Background
- > {CONTENT}
-
- >[!EXAMPLE] Statistics
- > {CONTENT}
+ >N/A
 
 ## Appearances
 

@@ -2,13 +2,13 @@
 type: npc
 status: 
 char-age: "%AGE%"
-groups: 
-job-title: "%JOB%"
+groups: Sacred Flame
+job-title: High Flamekeeper
 race: "%RACE%"
 ---
 
 >[!INFO] `=this.file.name`
->- ![[placeholder.png|inlR|200]]
+>- ![[Ophelia Reed.jpg|inlR|200]]
 <br/> [[placeholder.png|show to players]]
 >- **Age:** `= this.char-age`
 > - **Description:** %DESCRIPTION%

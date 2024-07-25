@@ -24,3 +24,33 @@ Maelstrom appears
 If captain is saved he will give choice of one of the following items:
 - [cloak of billowing](https://www.dndbeyond.com/magic-items/27040-cloak-of-billowing)
 - [pipe of smoke monsters](https://www.dndbeyond.com/magic-items/27082-pipe-of-smoke-monsters)
+
+---
+
+## Scene: Turtle Island
+
+## Caravan
+
+## Forest Wolves
+
+## Arrive at Emberwood Village
+- On the way into the village - on the outskirts, players see [[Old Zoya]]'s house.
+	- Players are warned of the "witch"
+- Right on the outskirts of the town the [[Silver Order]] has set up a Gallows and is hanging 2 Thieves. [[Ophelia Reed]] Leads the group - "Walk in the light."
+	- One is a teen boy.
+	- One is middle age man ([[Queen's men]])
+- Meet [[Emma Crowe]] at town "gate"
+	- She offers to give a tour for 1 GP.
+
+### Points of interest
+[[Emberwood -Labeled.jpg]]
+- [[Old Watchtower]]
+- [[Chapel of Saint Ardenna]]
+- [[Red Lion Hotel]]
+- [[Crowe & Sons]]
+- [[Eventide Manor]]
+- [[Gilded Lily]]
+- [[Caravan Court]]
+- [[Skull & Sword]]
+- [[Bark & Buzzard]]
+- [[Hendrix Farm]]
