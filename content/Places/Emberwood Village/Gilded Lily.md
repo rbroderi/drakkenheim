@@ -6,11 +6,12 @@ location: Emberwood Village
 ---
 
 >[!INFO] Place_Template.Md
->- ![[placeholder.png|inlR|200]]
-> - **Description:** %DESCRIPTION% 
+>- ![[Gilded Lily.jpg|inlR|200]]
+<br/> [[Gilded Lily.jpg|show to players]]
+> - **Description:** This lavish two-storey building is surrounded by a veranda decorated with a swirling lily motif and painted purple. It has ornate golden glowing lanterns hanging between the veranda arches and within its curtained windows. Inside, four large golden lamps light a small stage set before rows of candlelit tables. Floral arrangements line the walls. The well-stocked bar displays wines and spirits from across the world. 
 
 >[!NOTE] Background
-This lavish two-storey building is surrounded by a veranda decorated with a swirling lily motif and painted purple. It has ornate golden glowing lanterns hanging between the veranda arches and within its curtained windows. Inside, four large golden lamps light a small stage set before rows of candlelit tables. Floral arrangements line the walls. The well-stocked bar displays wines and spirits from across the world. The Gilded Lily is owned by a human [noble](https://www.dndbeyond.com/monsters/16966-noble) named Mr. Killian Vandire, but the exquisite hostess Madam Rochelle (a human [spy](https://www.dndbeyond.com/monsters/17021-spy)) runs the business and organizes the nightly performance acts. The tavern is a popular place to share company, gossip, and have a few drinks, and many adventurers make their last stop here for some good memories before trudging into the dismal ruins.
+The Gilded Lily is owned by a human [noble](https://www.dndbeyond.com/monsters/16966-noble) named Mr. Killian Vandire, but the exquisite hostess Madam Rochelle (a human [spy](https://www.dndbeyond.com/monsters/17021-spy)) runs the business and organizes the nightly performance acts. The tavern is a popular place to share company, gossip, and have a few drinks, and many adventurers make their last stop here for some good memories before trudging into the dismal ruins.
 
 - Drinks cost 5 silver: wine, spirits, and coffee only, no beer or food is served here.
 

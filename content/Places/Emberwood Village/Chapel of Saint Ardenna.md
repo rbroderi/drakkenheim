@@ -6,15 +6,14 @@ location: Emberwood Village
 ---
 
 >[!INFO] Place_Template.Md
->- ![[placeholder.png|inlR|200]]
-> - **Description:** %DESCRIPTION% 
+>- ![[Chapel of Saint Ardenna.jpg|inlR|200]]
+<br/> [[Chapel of Saint Ardenna.jpg|show to players]]
+> - **Description:** Located at the heart of Emberwood Village is a small chapel of the Sacred Flame. The circular fieldstone building has a copper domed rooftop, thin windows set with stained glass, and simple wooden double doors. Outside is a small crematory garden and scattering plot for the ashes of the dead. Within the chapel is a bronze _brazier of the Sacred Flame_, alight with golden fire that burns all night and day. It serves as a peaceful place of quiet worship in the harsh wasteland surrounding Drakkenheim.
 
 >[!NOTE] Background
-Located at the heart of Emberwood Village is a small chapel of the Sacred Flame. The circular fieldstone building has a copper domed rooftop, thin windows set with stained glass, and simple wooden double doors. Outside is a small crematory garden and scattering plot for the ashes of the dead. Within the chapel is a bronze _brazier of the Sacred Flame_, alight with golden fire that burns all night and day. It serves as a peaceful place of quiet worship in the harsh wasteland surrounding Drakkenheim.
+The chapel is maintained by [[Flamekeeper Hanna]] (a human [priest](https://www.dndbeyond.com/monsters/16985-priest)) and 2 (1d4) human [acolytes](https://www.dndbeyond.com/monsters/16763-acolyte).
 
-The chapel is maintained by Flamekeeper Hanna (a human [priest](https://www.dndbeyond.com/monsters/16985-priest)) and 2 (1d4) human [acolytes](https://www.dndbeyond.com/monsters/16763-acolyte). Hanna is a young woman who wears a simple white and yellow frock and keeps her black hair tied in a braid. Hanna was merely an acolyte when the last Flamekeeper died several years ago, but opted to take up the position herself rather than abandon the folk of Emberwood Village. She believes the Faith of the Sacred Flame is needed here now more than ever, and offers hospitality, kindness, and prayer to any who visit the chapel.
-
-**High Flamekeeper Ophelia Reed** of the Silver Order regularly visits the Chapel of Saint Ardenna, protected by Ser Virgil Underwood and Ser Cassandra Wyatt, two Silver Order [cavaliers](https://www.dndbeyond.com/monsters/4086097-cavalier). Ophelia Reed has been trying to convince Flamekeeper Hanna to join the Silver Order, but thus far Hanna has kept her neutral allegiance to the folk of Emberwood Village. Still, Flamekeeper Hanna enjoys conversation with Ophelia Reed, and allows the Silver Order emissary to take shelter in the chapel and conduct meetings with adventurers here.
+**High Flamekeeper [[Ophelia Reed]]** of the Silver Order regularly visits the Chapel of Saint Ardenna, protected by Ser Virgil Underwood and Ser Cassandra Wyatt, two Silver Order [cavaliers](https://www.dndbeyond.com/monsters/4086097-cavalier). Ophelia Reed has been trying to convince Flamekeeper Hanna to join the Silver Order, but thus far Hanna has kept her neutral allegiance to the folk of Emberwood Village. Still, Flamekeeper Hanna enjoys conversation with Ophelia Reed, and allows the Silver Order emissary to take shelter in the chapel and conduct meetings with adventurers here.
 
 #### [](https://www.dndbeyond.com/sources/dnd/dodr/emberwood-village#SpellcastingServices)Spellcasting Services
 

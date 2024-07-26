@@ -5,12 +5,11 @@ location:
 ---
 
 >[!INFO] Place_Template.Md
->- ![[placeholder.png|inlR|200]]
-> - **Description:** %DESCRIPTION% 
+>- ![[Fairweather Trades and Exports.jpg|inlR|200]]
+<br/> [[Fairweather Trades and Exports.jpg|show to players]]
+> - **Description:** An iron-bound stagecoach is parked here flanked by two massive flat-bedded wagons with stacks of leaden and steel-studded chests, overseen by a dozen armoured men. 
 
 >[!NOTE] Background
-An iron-bound stagecoach is parked here flanked by two massive flat-bedded wagons with stacks of leaden and steel-studded chests, overseen by a dozen armoured men.
-
 - Orson Fairweather (a human [gladiator](https://www.dndbeyond.com/monsters/16903-gladiator)) is among the most prolific exporters of delerium operating in Emberwood Village. The stout man has a heavily scarred and aged face, a leather eyepatch, and a mouth of gold teeth. He speaks little of his own history or exploits, but entertains rumours about his past life as a pirate and adventurer.
 - Fairweather has a security force of a dozen [veterans](https://www.dndbeyond.com/monsters/17045-veteran), and has paid the Amethyst Academy to create [arcane locks](https://www.dndbeyond.com/spells/2003-arcane-lock) and [glyphs of warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding) to protect his wares from thieves.
 
