@@ -5,10 +5,13 @@ publish: true
 - Short rests 10 mins, once per hour
 - Must me able to see a target to make a ranged attack
 - All Fighters get maneuvers at 6, /battle Master get twice at level 3
-- Shove is bonus action
+- Shove, Jump/Lundge, apply poison is bonus action
+- Drinking a potion is a bonus action, administering to another is an action, can take an action for self to get max benefits.
+- You can throw potions, they fill a 5x5 area- not grid aligned.
 - Sorcerer use spell points
 - Laser Llamas Alt Monk can be used
 - Tiny hut is now Leomund's Secure Shelter
+- Inspiration is a re-roll
 - # Secure Shelter
 	
 	3th-level conjuration (ritual)
@@ -37,4 +40,15 @@ publish: true
 - Criticals are max+roll
 - lightning is now 20 connected 5x5
 - new jump formula
-	- str mod-1 * 5, minimum 5 ft. ie str mod 2 = 10ft
+	10 + 5 * str mod, minimum 5 ft - uses 10 ft of movement.
+	ie
+
+| str mod | feet |
+| ------- | ---- |
+| -2      | 5    |
+| -1      | 5    |
+| 0       | 10   |
+| 1       | 15   |
+| 2       | 20   |
+| 3       | 25   |
+| 4       | 30   |
