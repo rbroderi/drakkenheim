@@ -47,13 +47,10 @@ WHERE type = "object"
 
 Players leave Port Nyanzaru, meeting [[Tamond Stormwind]] Captain of the [[Silver Serpent]] and his crew including: Helmsman [[Adrien Ballard]] and Bosun [[Zander Lawson]]
 
-## Scenes
-- Small scene description.
-
 ## Locations
 
 **Location**: Port Nyanzaru
 **Location**: Open Ocean
 **Location**: Ashbay
 
-![[Leaving Port_PRIVATE]]
+![[road to drakkenheim_PRIVATE]]

@@ -42,8 +42,29 @@ Our Heroes (and any crew if saved) Wake up on an island with a Tortle standing o
 	- The Deep dregs are trying to claim the huge turtle in the name of the Duchess
 - After defeating the Deep Dregs the huge turtle makes for shore.
 
-## Caravan
-CARAVAN Map
+## Potential Monsters
+- [Deep Dreg Woman](https://www.dndbeyond.com/monsters/4668878-deep-dreg-woman)
+- [Deep Dreg Man](https://www.dndbeyond.com/monsters/4668800-deep-dreg-man)
+
+## Scene: Caravan
+#### NPC Appearances
+%% DATAVIEW_PUBLISHER: start
+```dataview
+TABLE WITHOUT ID file.link AS "Character Name", upper(status) AS "Current Status", job-title AS "Role", groups AS "Affiliations"
+FROM outgoing([[]])
+WHERE type = "npc"
+```
+%%
+
+| Character Name                         | Current Status | Role              | Affiliations         |
+| -------------------------------------- | -------------- | ----------------- | -------------------- |
+| [[NPCs/Eren Marlowe.md\|Eren Marlowe]] | \-             | Merchant          | Marlowe's Provisions |
+| [[NPCs/Old Zoya.md\|Old Zoya]]         | \-             | Druid of Old Gods | Old Gods             |
+| [[NPCs/Ophelia Reed.md\|Ophelia Reed]] | \-             | High Flamekeeper  | Sacred Flame         |
+| [[NPCs/Emma Crowe.md\|Emma Crowe]]     | \-             | Child             | Crowe & Sons         |
+
+%% DATAVIEW_PUBLISHER: end %%
+
 On the road close to shore the Heroes see a road and a caravan stopped taking a rest.
 - The caravan is lead by [[Eren Marlowe]]
 	- She has her boy with her: Talfen

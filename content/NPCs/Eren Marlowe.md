@@ -1,10 +1,10 @@
 ---
 type: npc
 status: 
-char-age: "%AGE%"
-groups: 
-job-title: "%JOB%"
-race: "%RACE%"
+char-age: "28"
+groups: Marlowe's Provisions
+job-title: Merchant
+race: Human
 ---
 
 >[!INFO] Eren Marlowe

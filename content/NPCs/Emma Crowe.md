@@ -1,10 +1,10 @@
 ---
 type: npc
 status: 
-char-age: "%AGE%"
-groups: 
-job-title: "%JOB%"
-race: "%RACE%"
+char-age: 8
+groups: Crowe & Sons
+job-title: Child
+race: Human
 ---
 
 >[!INFO] Emma Crowe
