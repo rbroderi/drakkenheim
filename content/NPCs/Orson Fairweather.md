@@ -7,18 +7,15 @@ job-title: "%JOB%"
 race: "%RACE%"
 ---
 
->[!INFO] Karin Alsberg
->- ![[Karin Alsberg.jpg|inlR|200]]
-<br/> [[Karin Alsberg.jpg|show to players]]
+>[!INFO] Orson Fairweather
+>- ![[Orson Fairweather.jpg|inlR|200]]
+<br/> [[Orson Fairweather.jpg|show to players]]
 >- **Age:** %AGE%
-> - **Description:** %DESCRIPTION%
-> - **Personality:** Cordial
+> - **Description:** The stout man has a heavily scarred and aged face, and a mouth of gold teeth.
+> - **Personality:** N/A
  
  >[!NOTE] Background
- > {CONTENT}
-
- >[!EXAMPLE] Statistics
- > {CONTENT}
+He speaks little of his own history or exploits, but entertains rumours about his past life as a pirate and adventurer.
 
 ## Appearances
 

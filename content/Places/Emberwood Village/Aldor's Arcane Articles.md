@@ -15,7 +15,7 @@ sublocation: Caravan Court
 > “Let’s get down to business, shall we?”
 
 >[!NOTE] Background
->- Aldor the Immense is a [djinni](https://www.dndbeyond.com/monsters/16842-djinni) who delights in mortal pleasures and freely travels the world as a dealer of exotic wares. He possesses a sharp wit, a sophisticated sense of humor, puissant skill with money, and a gluttonous appreciation for material indulgences.
+>- [[Aldor the Immense]] is a [djinni](https://www.dndbeyond.com/monsters/16842-djinni) who delights in mortal pleasures and freely travels the world as a dealer of exotic wares. He possesses a sharp wit, a sophisticated sense of humor, puissant skill with money, and a gluttonous appreciation for material indulgences.
 >- His elemental nature is completely indiscernible, and he appears in all respects to be a grotesquely large human man. He wears an [amulet of proof against detection and location](https://www.dndbeyond.com/magic-items/4569-amulet-of-proof-against-detection-and-location).
 >- Aldor the Immense deals in magic items and delerium. He is accustomed to small-time heroes attempting to browbeat him, would-be seducers looking to cut a deal, and two-bit thieves trying to rip him off. He is always one step ahead in the mental bargaining game.
 >- His attendants and bodyguards are three human [assassins](https://www.dndbeyond.com/monsters/16790-assassin) named Brill, Meyers, and Vandeerbeek. His oxen are both [gorgons](https://www.dndbeyond.com/monsters/16908-gorgon).

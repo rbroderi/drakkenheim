@@ -41,6 +41,13 @@ If captain is saved he will give choice of one of the following items:
 	- One is middle age man ([[Queen's men]])
 - Meet [[Emma Crowe]] at town "gate"
 	- She offers to give a tour for 1 GP.
+		- Melvin the Inquisitive Bard, couldn’t resist poking at magical oddities. When he strummed a broken lute near a gargoyle, it sang a mournful ballad about its lost love. Melvin wept, hugged the gargoyle, and promptly turned to stone. Now they’re a duet forever.
+		- Sir Reginald, seeking liquid courage, downed a random vial. It turned him invisible—but only to himself. He wandered Drakkenheim, bumping into walls, shouting, “Who dares challenge Sir Reginald?”.. gnoll's made short work of him.
+		- Daffodil the Druid transformed into a pigeon to scout. Unfortunately, she forgot the reverse spell. Now she coos atop a broken tower, reminiscing about her human days.
+		- Warlock Wilbur sought power. A demon offered it—for a price. Wilbur’s soul now resides in a cobblestone, which occasionally whispers, “You should’ve read contract.”
+		- Necromancer Niles fancied himself a culinary artist. He raised skeletons to serve at his eerie dinner parties. One evening, he animated the wrong recipe book. The guests devoured each other, and Niles muttered, “Well, that’s one way to achieve bone broth.”
+		- Grunk the Barbarian flexed his muscles at a murky puddle. It rippled menacingly. Grunk roared, “Fight me!” The puddle absorbed him. Now it’s the most hydrated barbarian in history.
+		- Alchemist Alaric aimed for romance. His potion caused infatuation—with inanimate objects. Drakkenheim’s lampposts have never felt more desired.
 
 ### Points of interest
 [[Emberwood -Labeled.jpg]]

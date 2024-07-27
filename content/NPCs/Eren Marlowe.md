@@ -7,10 +7,10 @@ job-title: "%JOB%"
 race: "%RACE%"
 ---
 
->[!INFO] `=this.file.name`
+>[!INFO] Eren Marlowe
 >- ![[Eren Marlowe.jpg|inlR|200]]
 <br/> [[Eren Marlowe.jpg|show to players]]
->- **Age:** `= this.char-age`
+>- **Age:** %AGE%
 > - **Description:** Eren Marlow is a young woman who commonly wears a leather hat and jacket.
 > - **Personality:** N/A
  

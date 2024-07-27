@@ -7,10 +7,10 @@ job-title: "%JOB%"
 race: "%RACE%"
 ---
 
->[!INFO] `=this.file.name`
+>[!INFO] Flamekeeper Hanna
 >- ![[Flamekeeper Hanna.jpg|inlR|200]]
 <br/> [[Flamekeeper Hanna.jpg|show to players]]
->- **Age:** `= this.char-age`
+>- **Age:** %AGE%
 > - **Description:** Hanna is a young woman who wears a simple white and yellow frock and keeps her black hair tied in a braid. 
 > - **Personality:** Cordial
  

@@ -7,10 +7,10 @@ job-title: "%JOB%"
 race: "%RACE%"
 ---
 
->[!INFO] `=this.file.name`
+>[!INFO] Emma Crowe
 >- ![[Emma Crowe.jpg|inlR|200]]
 <br/> [[Emma Crowe.jpg|show to players]]
->- **Age:** `= this.char-age`
+>- **Age:** %AGE%
 > - **Description:** %DESCRIPTION%
 > - **Personality:** Cordial
  

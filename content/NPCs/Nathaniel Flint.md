@@ -7,10 +7,10 @@ job-title: "%JOB%"
 race: "%RACE%"
 ---
 
->[!INFO] `=this.file.name`
+>[!INFO] Nathaniel Flint
 >- ![[Nathaniel Flint.jpg|inlR|200]]
 <br/> [[Nathaniel Flint.jpg|show to players]]
->- **Age:** `= this.char-age`
+>- **Age:** %AGE%
 > - **Description:** %DESCRIPTION%
 > - **Personality:** Cordial
  

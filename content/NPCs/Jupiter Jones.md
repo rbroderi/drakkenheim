@@ -7,12 +7,12 @@ job-title: "%JOB%"
 race: "%RACE%"
 ---
 
->[!INFO] Karin Alsberg
->- ![[Karin Alsberg.jpg|inlR|200]]
-<br/> [[Karin Alsberg.jpg|show to players]]
->- **Age:** %AGE%
+>[!INFO] `=this.file.name`
+>- ![[Jupiter Jones.jpg|inlR|200]]
+<br/> [[Jupiter Jones.jpg|show to players]]
+>- **Age:** `= this.char-age`
 > - **Description:** %DESCRIPTION%
-> - **Personality:** Cordial
+> - **Personality:** N/A
  
  >[!NOTE] Background
  > {CONTENT}

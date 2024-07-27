@@ -7,15 +7,15 @@ job-title: "%JOB%"
 race: "%RACE%"
 ---
 
->[!INFO] Karin Alsberg
->- ![[Karin Alsberg.jpg|inlR|200]]
-<br/> [[Karin Alsberg.jpg|show to players]]
->- **Age:** %AGE%
-> - **Description:** %DESCRIPTION%
-> - **Personality:** Cordial
+>[!INFO] `=this.file.name`
+>- ![[Armin Gainsbury.jpg|inlR|200]]
+<br/> [[Armin Gainsbury.jpg|show to players]]
+>- **Age:** `= this.char-age`
+> - **Description:** A bespectacled and beanpole-shaped human
+> - **Personality:** N/A
  
  >[!NOTE] Background
- > {CONTENT}
+Owns [[Gainsbury Expeditionary Supply Company.jpg]]
 
  >[!EXAMPLE] Statistics
  > {CONTENT}

@@ -7,10 +7,10 @@ job-title: Druid of Old Gods
 race: elf
 ---
 
->[!INFO] `=this.file.name`
+>[!INFO] Old Zoya
 >- ![[Old Zoya.jpg|inlR|200]]
 <br/> [[Old Zoya.jpg|show to players]]
->- **Age:** `= this.char-age`
+>- **Age:** Old
 > - **Description:** Old Zoya has been a fixture of Emberwood Village since before anyone can remember. Elves age much slower than humans do, even so, Zoya _looks_ old. None know her true age and few are brave enough to ask. She lives just outside Emberwood Village proper, in a hut next to an ancient standing stone. "Which came first, the Zoya or the Stone?" is a local variant on the much more common chicken and egg question.
 > - **Personality:** Cooky
  

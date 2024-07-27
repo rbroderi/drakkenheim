@@ -7,10 +7,10 @@ job-title: High Flamekeeper
 race: "%RACE%"
 ---
 
->[!INFO] `=this.file.name`
+>[!INFO] Ophelia Reed
 >- ![[Ophelia Reed.jpg|inlR|200]]
 <br/> [[placeholder.png|show to players]]
->- **Age:** `= this.char-age`
+>- **Age:** %AGE%
 > - **Description:** %DESCRIPTION%
 > - **Personality:** Cordial
  

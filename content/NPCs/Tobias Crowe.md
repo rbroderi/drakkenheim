@@ -7,10 +7,10 @@ job-title: "%JOB%"
 race: "%RACE%"
 ---
 
->[!INFO] `=this.file.name`
+>[!INFO] Tobias Crowe
 >- ![[Tobias Crowe.jpg|inlR|200]]
 <br/> [[Tobias Crowe.jpg|show to players]]
->- **Age:** `= this.char-age`
+>- **Age:** %AGE%
 > - **Description:** Crowe is a quiet family man who stands six feet tall with fiery red hair and beard. He’s often drenched in sweat and soot, and wears a greasy pair of old goggles. Crowe proudly demonstrates the high quality of his work to customers, and openly criticizes the shoddy workmanship of their existing equipment.
 > - **Personality:** Cordial
  
