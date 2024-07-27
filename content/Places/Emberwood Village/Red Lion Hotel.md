@@ -6,13 +6,12 @@ location: Emberwood Village
 ---
 
 >[!INFO] Place_Template.Md
->- ![[placeholder.png|inlR|200]]
-> - **Description:** %DESCRIPTION% 
+>- ![[Red Lion Hotel.jpg|inlR|200]]
+<br/> [[Red Lion Hotel.jpg|show to players]]
+> - **Description:** Upon a small hill overlooking the village is the impressive Red Lion Hotel. Before the meteor struck it was known as Stavros Manor. The three-story manor is made of red brick. It features lion-shaped gargoyles, large glass-paned windows, and embossed wooden doors painted green. The estate includes a dozen well-appointed bedrooms, each with their own private bath and common room. A full service staff provides patrons’ every need. Meals are taken in a sumptuous dining room outfitted with an impressive crystal chandelier, and drinks are served in a vast parlour furnished with fine antiques and decorated with various sculptures, paintings, and bookshelves. Each room features a great hearth and lovely views which overlook the village or the surrounding countryside.
 
 >[!NOTE] Background
-Upon a small hill overlooking the village is the impressive Red Lion Hotel. Before the meteor struck it was known as Stavros Manor, home to a human [noble](https://www.dndbeyond.com/monsters/16966-noble) named Kosta Stavros who served as Reeve of Emberwood Village. After narrowly avoiding destitution when Drakkenheim was destroyed, Stavros converted his home into a hotel that serves wealthy explorers, merchants, and nobles conducting business near Drakkenheim. He is an older man with a sallow face, thinning hair, and monocle, always garbed in a rich blue vest and doublet.
-
-The three-storey manor is made of red brick. It features lion-shaped gargoyles, large glass-paned windows, and embossed wooden doors painted green. The estate includes a dozen well-appointed bedrooms, each with their own private bath and common room. A full service staff provides patrons’ every need. Meals are taken in a sumptuous dining room outfitted with an impressive crystal chandelier, and drinks are served in a vast parlour furnished with fine antiques and decorated with various sculptures, paintings, and bookshelves. Each room features a great hearth and lovely views which overlook the village or the surrounding countryside.
+It is home to a human [noble](https://www.dndbeyond.com/monsters/16966-noble) named Kosta Stavros who served as Reeve of Emberwood Village. After narrowly avoiding destitution when Drakkenheim was destroyed, Stavros converted his home into a hotel that serves wealthy explorers, merchants, and nobles conducting business near Drakkenheim. He is an older man with a sallow face, thinning hair, and monocle, always garbed in a rich blue vest and doublet.
 
 The Reeve has abandoned his civic duties, and is now little more than another business owner in the town. However, he still lords his imagined authority and privilege over others in the village, and prefers to share wine and gossip with travellers and merchants than deal with common folk. He regards the idea of adventuring in Drakkenheim as a sort of sport. He often makes wagers on who will die first amongst any adventuring groups who visit the Red Lion Hotel.
 

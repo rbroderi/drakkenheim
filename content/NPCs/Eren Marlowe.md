@@ -8,17 +8,14 @@ race: "%RACE%"
 ---
 
 >[!INFO] `=this.file.name`
->- ![[placeholder.png|inlR|200]]
-<br/> [[placeholder.png|show to players]]
+>- ![[Eren Marlowe.jpg|inlR|200]]
+<br/> [[Eren Marlowe.jpg|show to players]]
 >- **Age:** `= this.char-age`
-> - **Description:** %DESCRIPTION%
+> - **Description:** Eren Marlow is a young woman who commonly wears a leather hat and jacket.
 > - **Personality:** N/A
  
  >[!NOTE] Background
- > {CONTENT}
-
- >[!EXAMPLE] Statistics
- > {CONTENT}
+She runs [[Marlowe's Provisions]]. Her husband when missing on a trip to Drakkenheim.
 
 ## Appearances
 

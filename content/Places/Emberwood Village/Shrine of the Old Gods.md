@@ -5,13 +5,12 @@ location:
 ---
 
 >[!INFO] Place_Template.Md
->- ![[placeholder.png|inlR|200]]
-> - **Description:** %DESCRIPTION% 
+>- ![[Shrine of the Old Gods.jpg|inlR|200]]
+<br/> [[Shrine of the Old Gods.jpg|show to players]]
+> - **Description:** Seven standing stones comprise this ancient shrine that rests within a small grove of dying trees on the outskirts of town. Inscribed on each stone are the legends of primordial gods, and between them rests a stone pedestal adorned with various animal bones, plants, and candles that are lit every night. A crude old hut lies down a dirt path near the shrine, smoke billowing from a hole in the thatched roof chimney, and an odd scent of herbs wafting from within.
 
 >[!NOTE] Background
-Seven standing stones comprise this ancient shrine that rests within a small grove of dying trees on the outskirts of town. Inscribed on each stone are the legends of primordial gods, and between them rests a stone pedestal adorned with various animal bones, plants, and candles that are lit every night. A crude old hut lies down a dirt path near the shrine, smoke billowing from a hole in the thatched roof chimney, and an odd scent of herbs wafting from within.
-
-The hut is home to Old Zoya, an elderly human [druid](https://www.dndbeyond.com/monsters/16848-druid) who tends the shrine. Many in town wrongfully refer to her as a witch, but hold a deep respect for the ornery mystic. She claims the shrine protects Emberwood Village through these dark times. Zoya holds no love for the Sacred Flame, and keeps faith for the old, true gods.
+The hut is home to [[Old Zoya]], an elderly elf [druid](https://www.dndbeyond.com/monsters/16848-druid) who tends the shrine. Many in town wrongfully refer to her as a witch, but hold a deep respect for the ornery mystic. She claims the shrine protects Emberwood Village through these dark times. Zoya holds no love for the Sacred Flame, and keeps faith for the old, true gods.
 
 #### [](https://www.dndbeyond.com/sources/dnd/dodr/emberwood-village#SpellcastingServices1)Spellcasting Services
 
