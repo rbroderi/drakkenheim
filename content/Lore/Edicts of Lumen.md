@@ -2,6 +2,8 @@
 publish: true
 ---
 
+>- ![[edicts_of_lumen.jpg|inlR|200]]
+<br/> [[edicts_of_lumen.jpg|show to players]]
 
 >[!INFO] Background 
 >During antiquity, mighty sorcerer-kings ruled a continent spanning empire using their immense arcane power. The sorcerer-kings became tyrants who scarred the land with magical wars and held those without arcane magical power in bondage. The iron rule of the sorcerer-kings was ended by the clerics and paladins of the Faith of the Sacred Flame a thousand years ago. However, those born with arcane magical ability have faced discrimination ever since, and at times, the religious ministry has endorsed vicious persecution against mages. Even today, many common folk consider a mageborn child a terrible curse. Outright conflict ended with the Edicts of Lumen, a magical treaty between the Amethyst Academy, the continental nobility, and the Faith of the Sacred Flame. Signed three centuries ago, this agreement separates the political and economic powers of clergy, mages, and nobles.
