@@ -17,6 +17,7 @@ publish: true
 > - **Personality:** Cordial
  
  >[!NOTE] Background
+ >
  >As captain of the renowned ship, *The Silver Serpent*, Tamond is respected by both his crew and fellow sailors for his tactical prowess and unwavering sense of honor. He is known for his quick thinking in times of crisis and his unwavering dedication to protecting those under his care
 
 ## Appearances
