@@ -15,7 +15,8 @@ race: "%RACE%"
 > - **Personality:** N/A
  
  >[!NOTE] Background
-He speaks little of his own history or exploits, but entertains rumours about his past life as a pirate and adventurer.
+ >
+ >He speaks little of his own history or exploits, but entertains rumours about his past life as a pirate and adventurer.
 
 ## Appearances
 

@@ -15,7 +15,8 @@ race: "%RACE%"
 > - **Personality:** N/A
  
  >[!NOTE] Background
-Owns [[Aldor's Arcane Articles]]
+ >
+> Owns [[Aldor's Arcane Articles]]
 
 ## Appearances
 

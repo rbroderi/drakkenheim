@@ -15,7 +15,8 @@ race: "%RACE%"
 > - **Personality:** Fearless
  
  >[!NOTE] Background
- Lieutenant in Hooded Lanterns
+ >
+ >Lieutenant in Hooded Lanterns
 ## Appearances
 
 %% DATAVIEW_PUBLISHER: start

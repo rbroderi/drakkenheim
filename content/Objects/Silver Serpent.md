@@ -17,12 +17,6 @@ publish: true
 >[[Zander Lawson]]
 >[[Adrien Ballard]]
 
-> {CONTENT}
-
->[!EXAMPLE] Statistics
-
-> {CONTENT}
-
 ## Appearances
 %% DATAVIEW_PUBLISHER: start
 ```dataview

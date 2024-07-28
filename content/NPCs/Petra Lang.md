@@ -15,11 +15,9 @@ race: "%RACE%"
 > - **Personality:** N/A
  
  >[!NOTE] Background
-Lieutenant in Hooded Lantern
-
- >[!EXAMPLE] Statistics
- > {CONTENT}
-
+ >
+ >Lieutenant in Hooded Lantern
+ 
 ## Appearances
 
 %% DATAVIEW_PUBLISHER: start

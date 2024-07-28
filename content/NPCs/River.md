@@ -17,8 +17,6 @@ race: "%RACE%"
  >[!NOTE] Background
  > {CONTENT}
 
- >[!EXAMPLE] Statistics
- > {CONTENT}
 
 ## Appearances
 

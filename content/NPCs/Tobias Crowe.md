@@ -15,7 +15,8 @@ race: "%RACE%"
 > - **Personality:** Cordial
  
  >[!NOTE] Background
-He spends most of his days repairing broken gear, and his evenings at the Bark and Buzzard, before returning home to his wife Moira and daughters Emma and Sybil. Although he lacks the spellcasting abilities to work with delerium, he dreams of one day creating a masterpiece out of the meteoric iron found in Drakkenheim.
+ >
+ >He spends most of his days repairing broken gear, and his evenings at the Bark and Buzzard, before returning home to his wife Moira and daughters Emma and Sybil. Although he lacks the spellcasting abilities to work with delerium, he dreams of one day creating a masterpiece out of the meteoric iron found in Drakkenheim.
 
 ## Appearances
 

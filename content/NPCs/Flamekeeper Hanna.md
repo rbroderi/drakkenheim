@@ -15,7 +15,8 @@ race: "%RACE%"
 > - **Personality:** Cordial
  
  >[!NOTE] Background
-Hanna was merely an acolyte when the last Flamekeeper died several years ago, but opted to take up the position herself rather than abandon the folk of Emberwood Village. She believes the Faith of the Sacred Flame is needed here now more than ever, and offers hospitality, kindness, and prayer to any who visit the chapel.
+ >
+ >Hanna was merely an acolyte when the last Flamekeeper died several years ago, but opted to take up the position herself rather than abandon the folk of Emberwood Village. She believes the Faith of the Sacred Flame is needed here now more than ever, and offers hospitality, kindness, and prayer to any who visit the chapel.
 
 ## Appearances
 

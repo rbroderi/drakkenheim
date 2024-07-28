@@ -16,6 +16,7 @@ publish: true
 > - **Personality:** N/A
  
  >[!NOTE] Background
+ >
 > She runs [[Marlowe's Provisions]]. Her husband when missing on a trip to Drakkenheim.
 
 ## Appearances
