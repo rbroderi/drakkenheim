@@ -7,7 +7,7 @@ publish: true
 ---
 
 >[!INFO] Place_Template.Md
->- ![[marlowes Provisions.jpg|inlR|200]]
+>- ![[Marlowes Provisions.jpg|inlR|200]]
 <br/> [[Marlowes Provisions.jpg|show to players]]
 > - **Description:** A small makeshift stall with a few wooden tables displaying jars of dried fruits, packages of cured meats, jugs of water, mead, and bags of assorted nuts. Adventurers often come here for provisions that won’t rot or spoil during their treks into the contaminated ruins.
  
