@@ -9,7 +9,7 @@ race: "%RACE%"
 
 >[!INFO] `=this.file.name`
 >- ![[Ansom Lang.jpg|inlR|200]]
-<br/> [[ansom Lang.jpg|show to players]]
+<br/> [[Ansom Lang.jpg|show to players]]
 >- **Age:** `= this.char-age`
 > - **Description:** Lieutenant Ansom is a human urban ranger. He is an athletic young man with long black hair and a short neat beard, angular jaw, and rugged features. He is garbed in a hooded green cloak and light chain armor of the [Hooded Lanterns](https://mrbissell.com/Factions/Hooded+Lanterns) that prominently displays a captain’s insignia on his shoulder.
 > - **Personality:** Fearless
