@@ -5,6 +5,7 @@ char-age: "28"
 groups: Marlowe's Provisions
 job-title: Merchant
 race: Human
+publish: true
 ---
 
 >[!INFO] Eren Marlowe

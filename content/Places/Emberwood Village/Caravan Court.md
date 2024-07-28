@@ -3,6 +3,7 @@ type: place
 subtype: Market
 status: 
 location: Emberwood Village
+publish: true
 ---
 
 >[!INFO] Place_Template.Md

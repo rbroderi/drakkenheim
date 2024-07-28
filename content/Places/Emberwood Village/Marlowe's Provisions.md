@@ -3,6 +3,7 @@ type: place
 status: 
 location: Emberwood Village
 sublocation: Caravan Court
+publish: true
 ---
 
 >[!INFO] Place_Template.Md
