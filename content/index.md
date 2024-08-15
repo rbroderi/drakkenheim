@@ -9,3 +9,5 @@ publish: true
 - [[Maps]]
 - [[Places]]
 - [[Lore]]
+- [[Homebrew]]
+- [[Useful Items]]
