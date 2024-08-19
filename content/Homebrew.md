@@ -12,6 +12,7 @@ publish: true
 - Laser Llamas Alt Monk can be used
 - Tiny hut is now Leomund's Secure Shelter
 - Inspiration is a re-roll
+- falling damager is 1d6 per *five* feet
 - # Secure Shelter
 	
 	3th-level conjuration (ritual)
