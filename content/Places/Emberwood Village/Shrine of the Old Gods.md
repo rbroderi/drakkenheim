@@ -1,7 +1,8 @@
 ---
 type: place
 status: 
-location:
+location: emberwood village
+publish: true
 ---
 
 >[!INFO] Place_Template.Md
