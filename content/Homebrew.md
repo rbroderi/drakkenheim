@@ -39,7 +39,7 @@ publish: true
 	
 	This spell cannot be cast indoors.
 - Criticals are max+roll
-- lightning is now 20 connected 5x5
+- lightning is now 20 connected 5ftx5ft areas. The areas must move away from or perpendicular from the caster.
 - new jump formula
 	10 + 5 * str mod, minimum 5 ft - uses 10 ft of movement.
 	ie
@@ -55,5 +55,11 @@ publish: true
 | 4       | 30   |
 
 # Items
-## NET
+## NET (1 GP) [5e24]
 When you take the Attack action, you can replace one of your attacks with throwing a Net. Target a creature you can see within 15 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or have the Restrained condition until it escapes. The target succeeds automatically if it is Huge or larger. To escape, the target or a creature within 5 feet of it must take an action to make a DC 10 Strength (Athletics) check, freeing the Restrained creature on a success. Destroying the Net (AC 10; 5 HP; Immunity to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect.
+
+## BALL BEARINGS (1 GP) [5e24]
+As a action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the Prone condition. It takes 10 minutes to recover the Ball Bearings.
+
+## CALTROPS (l GP) [5e24]
+As a action, you can spread Caltrops from their bag to cover a 5-foot-square area within 5 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 Dexterity saving throw or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.
