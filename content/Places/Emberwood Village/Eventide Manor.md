@@ -11,7 +11,7 @@ publish: true
 <br/> [[Eventide Manor.jpg|show to players]]
 > - **Description:** This manor house on the south end of town burned down many years ago. It was once owned by a mysterious elven woman who had a child with a local craftsman, but was abandoned after she passed away and the boy was taken by the Amethyst Academy. Since it caught fire, none have come to claim or repair it. Children now tell tales of the strange noises coming from the cellar of the house, and how the charred doors and windows open and close on their own.
 
-[[!Eventide Manor_PRIVATE]]
+![[Eventide Manor_PRIVATE]]
 
 ## Appearances
 
