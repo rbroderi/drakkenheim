@@ -12,7 +12,7 @@ publish: true
 > - **Description:** Nestled amongst the residential cottages of Emberwood Village, this small one-level public house is a popular spot for locals and adventurers seeking a peaceful and laid back place to unwind. The sign hanging above the door depicts a cartoonish vulture and a bloodhound, both smiling pleasantly. The public house has a cozy and familial character: there’s no proper bar, nor any walls separating the kitchen from the dining room. Instead, a few benches are arranged beside the main cask, and about a dozen round tables surround an inviting hearth. 
 
 >[!NOTE] Background
-The Alsberg family has owned and maintained the establishment for a generations. [[Karin Alsberg]] and her husband, [[Holger Alsberg]] (both human [commoners](https://www.dndbeyond.com/monsters/16829-commoner)) make fine home-brewed beer known as Ember Ale, and serve hearty braised lamb stew with fresh-baked bread.
+The Alsberg family has owned and maintained the establishment for generations. [[Karin Alsberg]] and her husband, [[Holger Alsberg]] (both human [commoners](https://www.dndbeyond.com/monsters/16829-commoner)) make fine home-brewed beer known as Ember Ale, and serve hearty braised lamb stew with fresh-baked bread.
 
 - A mug of fine ale costs 2 sp. A meal costs 1 gp.
 - The Alsbergs keep half a dozen one-room cottages in the village that they will rent to travellers. The price is 2 gold per night.
