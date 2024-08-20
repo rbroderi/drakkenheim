@@ -2,7 +2,7 @@
 publish: true
 ---
 
-- Short rests 10 mins, twice per day
+- Short rests 10 mins, only benefit once per hour.
 - Must me able to see a target to make a ranged attack
 - All Fighters get maneuvers at 6, /battle Master get twice at level 3
 - Shove, Jump/Lundge, apply poison is bonus action
