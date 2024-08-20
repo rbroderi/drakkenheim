@@ -13,6 +13,21 @@ publish: true
 - Tiny hut is now Leomund's Secure Shelter
 - Inspiration is a re-roll
 - falling damager is 1d6 per *five* feet
+- Criticals are max+roll
+- lightning is now 20 connected 5ftx5ft areas. The areas must move away from or perpendicular from the caster.
+- new jump formula
+	10 + 5 * str mod, minimum 5 ft - uses 10 ft of movement.
+	ie
+
+| str mod | feet |
+| ------- | ---- |
+| -2      | 5    |
+| -1      | 5    |
+| 0       | 10   |
+| 1       | 15   |
+| 2       | 20   |
+| 3       | 25   |
+| 4       | 30   |
 
 # Spells
 - ## Secure Shelter
@@ -40,21 +55,6 @@ publish: true
 	The secure shelter contains crude furnishings – eight bunks, a trestle table, eight stools, and a writing desk.
 	
 	This spell cannot be cast indoors.
-- Criticals are max+roll
-- lightning is now 20 connected 5ftx5ft areas. The areas must move away from or perpendicular from the caster.
-- new jump formula
-	10 + 5 * str mod, minimum 5 ft - uses 10 ft of movement.
-	ie
-
-| str mod | feet |
-| ------- | ---- |
-| -2      | 5    |
-| -1      | 5    |
-| 0       | 10   |
-| 1       | 15   |
-| 2       | 20   |
-| 3       | 25   |
-| 4       | 30   |
 
 ## ACID SPLASH
 Evocation Cantrip (Sorcerer, Wizard)
