@@ -13,7 +13,9 @@ publish: true
 - Tiny hut is now Leomund's Secure Shelter
 - Inspiration is a re-roll
 - falling damager is 1d6 per *five* feet
-- # Secure Shelter
+
+# Spells
+- ## Secure Shelter
 	
 	3th-level conjuration (ritual)
 	
@@ -54,6 +56,15 @@ publish: true
 | 3       | 25   |
 | 4       | 30   |
 
+## ACID SPLASH
+Evocation Cantrip (Sorcerer, Wizard)
+Casting Time: Action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity
+saving throw or take ld6 Acid damage. Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
+
 # Items
 ## NET (1 GP) [5e24]
 When you take the Attack action, you can replace one of your attacks with throwing a Net. Target a creature you can see within 15 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or have the Restrained condition until it escapes. The target succeeds automatically if it is Huge or larger. To escape, the target or a creature within 5 feet of it must take an action to make a DC 10 Strength (Athletics) check, freeing the Restrained creature on a success. Destroying the Net (AC 10; 5 HP; Immunity to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect.
@@ -78,3 +89,7 @@ an extra 5 Fire damage from burning oil.
 ## POISON, BASIC (100 GP) [5e24]
 As a Bonus Action, you can use a vial of Basic Poison to coat one weapon or up to three pieces of ammunition. A creature that takes Piercing or Slashing
 damage from the poisoned weapon or ammunition takes an extra ld4 Poison damage. Once applied, the poison retains potency for 1 minute or until its damage is dealt, whichever comes first.
+
+## ROPE (1 GP) [5e24]
+As a Utilize action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC
+20 Strength (Athletics) check. You can bind an unwilling creature with the Rope only if the creature has the Grappled, Incapacitated, or Restrained condition. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.
