@@ -38,29 +38,29 @@ publish: true
 - Grasping Vine. Now a spell attack instead of a Dexterity save, and you deal 4d8 damage pull the creature up to 30 feet, and can grapple the target. The damage and the grapple effect are both new, and they’re fantastic additions to what was previously a borderline worthless spell. Upcasting now allows you to grapple additional creatures, but with only one attack from the vine, it’ll be rare that you can grapple more than 2 creatures at the same time in the space of one combat.
 ## Secure Shelter
 	
-	3th-level conjuration (ritual)
+ 3th-level conjuration (ritual)
 	
-	**Casting Time**: 10 minutes
+**Casting Time**: 10 minutes
 	
-	**Range**: 60 feet
+**Range**: 60 feet
 	
-	**Components**: V, S, M (a chip of stone, a drop of water, and a splinter of wood)
+**Components**: V, S, M (a chip of stone, a drop of water, and a splinter of wood)
 	
-	**Duration**: 8 hours
+**Duration**: 8 hours
 	
-	**Classes**: [ranger](https://www.5esrd.com/classes/ranger), [wizard](https://www.5esrd.com/classes/wizard)
+**Classes**: [ranger](https://www.5esrd.com/classes/ranger), [wizard](https://www.5esrd.com/classes/wizard)
 	
-	You conjure a sturdy cottage or lodge made of material that is common in the area where the spell is cast. The floor is level, clean, and dry. The lodging resembles a normal cottage, with a sturdy door, two shuttered windows, and a small fireplace.
+You conjure a sturdy cottage or lodge made of material that is common in the area where the spell is cast. The floor is level, clean, and dry. The lodging resembles a normal cottage, with a sturdy door, two shuttered windows, and a small fireplace.
 	
-	The shelter must be heated as a normal dwelling, and extreme heat adversely affects it and its occupants. The dwelling does, however, provide considerable security otherwise – it is as strong as a normal stone building, regardless of its material composition. The dwelling resists flames and fire as if it were stone. It is impervious to normal ranged weapon attacks (but not the sort cast by siege engines or giants).
+The shelter must be heated as a normal dwelling, and extreme heat adversely affects it and its occupants. The dwelling does, however, provide considerable security otherwise – it is as strong as a normal stone building, regardless of its material composition. The dwelling resists flames and fire as if it were stone. It is impervious to normal ranged weapon attacks (but not the sort cast by siege engines or giants).
 	
-	The door, shutters, and even chimney are secure against intrusion, the former two being secured with [arcane lock](https://www.5esrd.com/spellcasting/all-spells/a/arcane-lock) and the latter by an iron grate at the top and a narrow flue.
+The door, shutters, and even chimney are secure against intrusion, the former two being secured with [arcane lock](https://www.5esrd.com/spellcasting/all-spells/a/arcane-lock) and the latter by an iron grate at the top and a narrow flue.
 	
-	In addition, these three areas are protected by an [alarm](https://www.5esrd.com/spellcasting/all-spells/a/alarm) spell. Finally, an [unseen servant](https://www.5esrd.com/spellcasting/all-spells/u/unseen-servant) is conjured to provide service to you for the duration of the shelter.
+In addition, these three areas are protected by an [alarm](https://www.5esrd.com/spellcasting/all-spells/a/alarm) spell. Finally, an [unseen servant](https://www.5esrd.com/spellcasting/all-spells/u/unseen-servant) is conjured to provide service to you for the duration of the shelter.
 	
-	The secure shelter contains crude furnishings – eight bunks, a trestle table, eight stools, and a writing desk.
+The secure shelter contains crude furnishings – eight bunks, a trestle table, eight stools, and a writing desk.
 	
-	This spell cannot be cast indoors.
+This spell cannot be cast indoors.
 
 ## ACID SPLASH
 Evocation Cantrip (Sorcerer, Wizard)
