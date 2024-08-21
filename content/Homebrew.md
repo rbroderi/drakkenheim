@@ -30,7 +30,13 @@ publish: true
 | 4       | 30   |
 
 # Spells
-- ## Secure Shelter
+- Conjure Barrage. Damage raised from 3d8 to 5d8.
+- Acid Splash. Now a 5-foot radius sphere rather than an attack against two targets.
+- Armor of Agathys. Now cast as a Bonus Action; uses any source of THP.
+- Barkskin. Cast as a Bonus Action instead of an Action, concentration is removed, and the AC is raised from 16 to 17.
+- Blade Ward. Now a 1-minute defensive buff. -1d4 on all attack rolls against you, but requires Concentration.
+- Grasping Vine. Now a spell attack instead of a Dexterity save, and you deal 4d8 damage pull the creature up to 30 feet, and can grapple the target. The damage and the grapple effect are both new, and they’re fantastic additions to what was previously a borderline worthless spell. Upcasting now allows you to grapple additional creatures, but with only one attack from the vine, it’ll be rare that you can grapple more than 2 creatures at the same time in the space of one combat.
+## Secure Shelter
 	
 	3th-level conjuration (ritual)
 	
