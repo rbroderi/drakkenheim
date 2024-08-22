@@ -30,8 +30,8 @@ publish: true
 | 4       | 30   |
 
 # Spells
+- in general all updated 2024 spells unless otherwose noted. i have called some of the bigger changed spells out below.
 - Conjure Barrage. Damage raised from 3d8 to 5d8.
-- Acid Splash. Now a 5-foot radius sphere rather than an attack against two targets.
 - Armor of Agathys. Now cast as a Bonus Action; uses any source of THP.
 - Barkskin. Cast as a Bonus Action instead of an Action, concentration is removed, and the AC is raised from 16 to 17.
 - Blade Ward. Now a 1-minute defensive buff. -1d4 on all attack rolls against you, but requires Concentration.
@@ -70,6 +70,16 @@ Components: V, S
 Duration: Instantaneous
 You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity
 saving throw or take ld6 Acid damage. Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
+
+## Shillelagh [5e24]
+level 0 - transmutation
+Casting Time: Bonus Action
+Range: Self
+Components: V, S, M (mistletoe)
+Duration: 1 minute
+A Club or Quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. If the attack deals damage, it can be Force damage or the weapon's normal damage type (your choice).
+The spell ends early if you cast it again or if you let go of the weapon.
+Cantrip Upgrade. The weapon's damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6).
 
 # Items
 ## ACID (25 GP) [5e24]
