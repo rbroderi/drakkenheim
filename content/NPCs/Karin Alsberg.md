@@ -4,7 +4,7 @@ status:
 char-age: "%AGE%"
 groups: 
 job-title: "%JOB%"
-race: "%RACE%"
+race: Elvish
 ---
 
 >[!INFO] Karin Alsberg

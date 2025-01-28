@@ -2,6 +2,7 @@
 type: place
 status: 
 location:
+publish: true
 ---
 
 >[!INFO] Place_Template.Md

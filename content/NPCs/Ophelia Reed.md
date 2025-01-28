@@ -4,7 +4,8 @@ status:
 char-age: "%AGE%"
 groups: Sacred Flame
 job-title: High Flamekeeper
-race: "%RACE%"
+race: Human
+publish: true
 ---
 
 >[!INFO] Ophelia Reed

@@ -5,6 +5,7 @@ char-age: "%AGE%"
 groups: 
 job-title: "%JOB%"
 race: "%RACE%"
+publish: true
 ---
 
 >[!INFO] Tobias Crowe

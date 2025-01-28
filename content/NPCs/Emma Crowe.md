@@ -5,6 +5,7 @@ char-age: 8
 groups: Crowe & Sons
 job-title: Child
 race: Human
+publish: true
 ---
 
 >[!INFO] Emma Crowe

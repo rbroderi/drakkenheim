@@ -2,6 +2,7 @@
 type: place
 status: 
 location:
+publish: true
 ---
 
 >[!INFO] Place_Template.Md
@@ -11,7 +12,7 @@ location:
 
 >[!NOTE] Background
 >- [[Armin Gainsbury]], a bespectacled and beanpole-shaped human [commoner](https://www.dndbeyond.com/monsters/16829-commoner), carries all manner of adventuring gear which they sell for twice the market value.
->- Gainsbury is especially well stocked on mining and prospecting equipment, and sells a pamphlet detailing the correct methods for safely handling and extracting [delerium crystals](https://www.dndbeyond.com/equipment/355-delerium-crystal). A copy costs 1 gp. The information inside is filled with hyperbolic (but correct) warnings. The instructions are overly detailed and rather long-winded, but reasonably accurate.
+>- Gainsbury is especially well stocked on mining and prospecting equipment, and sells a pamphlet detailing the correct methods for safely handling and extracting [delerium crystals](https://www.dndbeyond.com/equipment/355-delerium-crystal). A copy costs 1 gp or is included in a mining set sold for 50gp. The mining set includes a chest, lead lined gloves, shovels, pickaxes, mattocks, and various containers. The information inside is filled with hyperbolic (but correct) warnings. The instructions are overly detailed and rather long-winded, but reasonably accurate.
 
 ## Appearances
 

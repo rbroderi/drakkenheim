@@ -4,6 +4,7 @@ subtype: Shop
 status: 
 location: Emberwood Village
 sublocation: Caravan Court
+publish: true
 ---
 
 >[!INFO] Aldar's Arcane Articles

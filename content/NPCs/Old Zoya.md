@@ -4,7 +4,8 @@ status:
 char-age: Old
 groups: Old Gods
 job-title: Druid of Old Gods
-race: elf
+race: UNKNOWN
+publish: true
 ---
 
 >[!INFO] Old Zoya

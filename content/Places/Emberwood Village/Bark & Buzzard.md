@@ -3,6 +3,7 @@ type: place
 subtype: Tavern
 status: 
 location: Emberwood Village
+publish: true
 ---
 
 >[!INFO] Bark & Buzzard

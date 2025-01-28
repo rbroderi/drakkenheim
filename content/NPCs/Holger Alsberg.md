@@ -4,7 +4,8 @@ status:
 char-age: "%AGE%"
 groups: 
 job-title: "%JOB%"
-race: "%RACE%"
+race: Elvish
+publish: true
 ---
 
 >[!INFO] Holger Alsberg
