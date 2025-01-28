@@ -1,7 +1,7 @@
 ---
 type: place
 status: 
-location:
+location: Emberwood Village
 publish: true
 ---
 
