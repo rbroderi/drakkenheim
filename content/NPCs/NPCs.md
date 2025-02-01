@@ -7,7 +7,7 @@ publish: true
 %% DATAVIEW_PUBLISHER: start
 ```dataview  
 LIST  
-WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE") AND !contains(file.name, "private") AND file.name != this.file.name 
+WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE") AND !contains(file.name, "private") AND file.name != this.file.name AND publish = true
 ```
 %%
 
@@ -20,9 +20,7 @@ WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE
 - [[NPCs/Karin Alsberg.md|Karin Alsberg]]
 - [[NPCs/Emma Crowe.md|Emma Crowe]]
 - [[NPCs/Killian Vandire.md|Killian Vandire]]
-- [[NPCs/Lemminton Whithalf.md|Lemminton Whithalf]]
 - [[NPCs/Flamekeeper Hanna.md|Flamekeeper Hanna]]
-- [[NPCs/Jupiter Jones.md|Jupiter Jones]]
 - [[NPCs/Orson Fairweather.md|Orson Fairweather]]
 - [[NPCs/Ophelia Reed.md|Ophelia Reed]]
 - [[NPCs/River.md|River]]

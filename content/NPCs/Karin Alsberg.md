@@ -5,6 +5,7 @@ char-age: "%AGE%"
 groups: 
 job-title: "%JOB%"
 race: Elvish
+publish: true
 ---
 
 >[!INFO] Karin Alsberg

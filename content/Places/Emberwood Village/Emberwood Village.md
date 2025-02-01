@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 >[!INFO] Emberwood Village
 >- ![[Emberwood -Labeled.jpg|inlR|200]]
 <br/> [[Emberwood -Labeled.jpg|show to players]]
@@ -16,5 +20,3 @@
 |Skull and Sword||A mug of cheap mead is 5 copper pieces. Brandy, rum, vodka, and gin are 1 silver.|
 |Bark and Buzzard||A mug of fine ale costs 2 sp. A meal costs 1 gp. The Alsbergs keep half a dozen one-room cottages at 2 gold per night.|
 |Treasure||Any shop owner will buy treasure, equipment, gems, artwork magic items at half their listed price|
-|Delerium|<1000|1/2 listed price|
-|Delerium|>1000|1X listed price|
