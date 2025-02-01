@@ -14,9 +14,8 @@ publish: true
 > - The Silver Serpent is adorned with intricate carvings and embellishments, showcasing the craftsmanship and artistry of its creators.
 
 >[!NOTE] **Crew:** 
->- [[Zander Lawson]]
->- [[Adrien Ballard]]
->- [[Tamond Stormwind]]
+>[[Zander Lawson]]
+>[[Adrien Ballard]]
 
 ## Appearances
 %% DATAVIEW_PUBLISHER: start
