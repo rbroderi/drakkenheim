@@ -10,5 +10,6 @@ WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE
 %%
 
 - [[Lore/Edicts of Lumen.md|Edicts of Lumen]]
+- [[Lore/Sacred Flame.md|Sacred Flame]]
 
 %% DATAVIEW_PUBLISHER: end %%

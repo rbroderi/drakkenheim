@@ -12,17 +12,26 @@ WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE
 %%
 
 - [[NPCs/Adrien Ballard.md|Adrien Ballard]]
+- [[NPCs/Ansom.md|Ansom]]
+- [[NPCs/Aldor the Immense.md|Aldor the Immense]]
+- [[NPCs/Eren Marlowe.md|Eren Marlowe]]
+- [[NPCs/Holger Alsberg.md|Holger Alsberg]]
+- [[NPCs/Armin Gainsbury.md|Armin Gainsbury]]
+- [[NPCs/Karin Alsberg.md|Karin Alsberg]]
 - [[NPCs/Emma Crowe.md|Emma Crowe]]
+- [[NPCs/Killian Vandire.md|Killian Vandire]]
+- [[NPCs/Lemminton Whithalf.md|Lemminton Whithalf]]
+- [[NPCs/Flamekeeper Hanna.md|Flamekeeper Hanna]]
+- [[NPCs/Jupiter Jones.md|Jupiter Jones]]
+- [[NPCs/Orson Fairweather.md|Orson Fairweather]]
+- [[NPCs/Ophelia Reed.md|Ophelia Reed]]
+- [[NPCs/River.md|River]]
 - [[NPCs/Old Zoya.md|Old Zoya]]
 - [[NPCs/Tamond Stormwind.md|Tamond Stormwind]]
 - [[NPCs/Tobias Crowe.md|Tobias Crowe]]
-- [[NPCs/Zander Lawson.md|Zander Lawson]]
-- [[NPCs/Ophelia Reed.md|Ophelia Reed]]
-- [[NPCs/Karin Alsberg.md|Karin Alsberg]]
-- [[NPCs/Holger Alsberg.md|Holger Alsberg]]
-- [[NPCs/Flamekeeper Hanna.md|Flamekeeper Hanna]]
+- [[NPCs/Petra Lang.md|Petra Lang]]
 - [[NPCs/Nathaniel Flint.md|Nathaniel Flint]]
-- [[NPCs/Eren Marlowe.md|Eren Marlowe]]
+- [[NPCs/Zander Lawson.md|Zander Lawson]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

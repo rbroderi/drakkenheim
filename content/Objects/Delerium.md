@@ -26,3 +26,5 @@ SORT session-num asc
 | ------- | ----- | ---- |
 
 %% DATAVIEW_PUBLISHER: end %%
+![[pamphlet_info.jpg]]
+![[pamphlet_howto.jpg]]
