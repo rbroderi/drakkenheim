@@ -9,3 +9,4 @@ publish: true
 - [[Maps]]
 - [[Places]]
 - [[Lore]]
+- [[Factions]]
