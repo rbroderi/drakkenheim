@@ -34,3 +34,5 @@ SORT session-num asc
 | ------- | ----- | ---- |
 
 %% DATAVIEW_PUBLISHER: end %%
+
+See [[Amethyst Academy]]

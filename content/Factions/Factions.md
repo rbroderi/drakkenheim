@@ -1,9 +1,7 @@
 ---
 publish: true
 ---
-
 # Listing
- 
 %% DATAVIEW_PUBLISHER: start
 ```dataview  
 LIST  
@@ -11,8 +9,6 @@ WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE
 ```
 %%
 
-- [[Objects/Delerium.md|Delerium]]
-- [[Objects/Silver Serpent.md|Silver Serpent]]
+- [[Factions/Amethyst Academy.md|Amethyst Academy]]
 
 %% DATAVIEW_PUBLISHER: end %%
- 

@@ -11,6 +11,7 @@ WHERE contains(file.folder, this.file.folder) AND !contains(file.name, "TEMPLATE
 ```
 %%
 
+- [[Sessions/Feb 8.md|Feb 8]]
 - [[Sessions/Road to Drakkenheim/Road to Drakkenheim.md|Road to Drakkenheim]]
 
 %% DATAVIEW_PUBLISHER: end %%

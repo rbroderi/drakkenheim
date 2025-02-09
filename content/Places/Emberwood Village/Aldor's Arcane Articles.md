@@ -27,12 +27,7 @@ publish: true
 
 Aldor has an enigmatic and ever-shifting stock of magical items that replenishes each week.
 
-- 2d6 [potions of healing](https://www.dndbeyond.com/equipment/71-potion-of-healing) (100 gp each) and 1d6 [potions of greater healing](https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater) (300 gp each)
-- [Spell scrolls](https://www.dndbeyond.com/magic-items/5418-spell-scroll) from the wizard spell list: 1d10 1st level _spell scrolls_ (75 gp each), 1d8 2nd level _spell scrolls_ (150 gp each), and 1d6 3rd-level _spell scrolls_ (450 gp each). Add twice the cost of any expensive components to the price of the scroll.
-- 1d4 randomly determined uncommon magic items sold for 3d6 x 100 gp each.
-- Material components for spells of 5th level and lower.
-- Use your discretion when generating these magic items. If you wish, occasionally Aldor the Immense might carry a single rare magic item, which he sells for 10,000 gp.
-	- Brass Horn of Valhalla
+https://5emagic.shop/shop/rick-broderick/aldors-arcane-articles-d9660a807
 
 ## Appearances
 
