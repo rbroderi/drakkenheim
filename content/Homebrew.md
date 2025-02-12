@@ -53,3 +53,9 @@ publish: true
 | 3       | 25   |
 | 4       | 30   |
 
+Sciomancy - Feat
+Requires druid
+![[sciomancy.jpeg|inlR|400]]
+You can expend a wild-shape charge and turn into a groundhog. While in this shape you you can read the light and shadows gaining an insight into the future.  Roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+
+Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls. You can only use this ability once per day.

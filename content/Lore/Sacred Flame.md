@@ -48,8 +48,3 @@ The Knights of the Silver Order, a renowned knightly fellowship. They are the mo
 #### Afterlife and Cosmic Balance
 
 The Sacred Flame teaches that upon death, righteous souls after passing the Bridge of Judgement are guided by the divine light to the land of eternal dawn. This celestial place, where the light of the Sacred Flame burns eternally, is where souls reside in peace, free from the darkness that seeks to corrupt them. Here, they stand as eternal guardians against the shadow, their luminous souls serving as a bulwark to protect the realms from the encroaching dark.
-
----
-
-# Testament of the Falling Fire
-![[Lore/testament_of_falling_fire_v2.pdf|testament_of_falling_fire_v2]]
