@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.WORKFLOW_SECRET }}
 
       - name: Run GitHub Actions Version Updater
-        uses: saadmk11/GitHub Actions Version Updater bullseye@Release2
+        uses: r rbroderi/GitHub Actions Version Updater bullseye@Release2
         with:
           # [Required] Access token with `workflow` scope.
           token: ${{ secrets.WORKFLOW_SECRET }}
