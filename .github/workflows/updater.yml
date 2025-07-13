@@ -2,10 +2,10 @@ name: GitHub Actions Version Updater
 
 # Controls when the action will run.
 on:
- # schedule:
+  schedule:
     # Automatically run on every Sunday
-#    - cron:  '0 0 * * 0'
-   workflow_dispatch:
+    - cron:  '0 0 * * 0'
+  workflow_dispatch:
     
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4.2.2
+      - uses: actions/checkout@v4
         with:
           # [Required] Access token with `workflow` scope.
           token: ${{ secrets.WORKFLOW_SECRET }}
