@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.2.2
         with:
           # [Required] Access token with `workflow` scope.
           token: ${{ secrets.WORKFLOW_SECRET }}
       - name: GitHub Actions Version Updater bullseye
-        uses: rbroderi/github-actions-version-updater@Release2
+        uses: rbroderi/github-actions-version-updater@Release3
         with:
           # [Required] Access token with `workflow` scope.
           token: ${{ secrets.WORKFLOW_SECRET }}
